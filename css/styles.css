@@ -465,8 +465,8 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
 	border-style: none;
 	cursor: pointer;
 	
-	/* padding: 16px 32px;
-	min-width: 169px; */
+	padding: 16px 32px;
+	min-width: 169px;
 	color: var(--bg-color-body);
 	background-color: var(--accent-color);
 	
@@ -702,6 +702,8 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
 	background-color: var(--bg-button-main);
 }
 
+
+
 /*__________SECTION CUSTOMERS__________*/
 .section-customers {
 	padding-top: 130px;
@@ -936,7 +938,7 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
 	}
 }
 
-/* __________.footer .container__________ {
+/* __________.FOOTER .CONTAINER__________ {
 } */
 
 @media screen and (min-width: 768px) {
@@ -1223,9 +1225,9 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
 	min-height: 576px;
 
 	/* width: 408px;
-	min-height: 576px;
+	min-height: 576px; */
 
-	padding: 72px 24px 24px; */
+	padding: 72px 24px 24px;
 	
 	background-color: #fcfcfc;
 	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 
@@ -1454,8 +1456,8 @@ screen and (min-width: 1200px) and (min-resolution: 2dppx) {
 	display: block;
 	margin: 0 auto;
 
-	/* padding: 16px 32px;
-	min-width: 169px; */
+	padding: 16px 32px;
+	min-width: 169px;
 }
 
 /* __________MOBILE MENU STYLES__________ */
